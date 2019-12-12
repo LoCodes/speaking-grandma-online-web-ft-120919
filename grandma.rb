@@ -19,4 +19,6 @@
    if phrase != phrase.uppercase()
      return = HUH?! SPEAK UP, SONNY!
    else 
-     return = 
+     return = NO, NOT SINCE 1938!
+   end 
+ end
